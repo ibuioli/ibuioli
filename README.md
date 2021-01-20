@@ -34,7 +34,8 @@
 ![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=8a4182)
 ![](https://img.shields.io/badge/Test-Protractor-informational?style=flat&logo=Protractor&logoColor=white&color=8a4182)
 
-![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&logoColor=white&color=222222)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=222222)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=222222)
@@ -44,3 +45,5 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=222222)
+![](https://img.shields.io/badge/Hardware-RaspberryPi-informational?style=flat&logo=Raspberry-Pi&logoColor=white&color=222222)
+![](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=222222)
