@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Processing-informational?style=flat&logo=Processing&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/MarkUp-HTML-informational?style=flat&logo=html5&logoColor=white&color=#e96228)
 ![](https://img.shields.io/badge/MarkUp-XML-informational?style=flat&logo=xml&logoColor=white&color=#e96228)
@@ -37,7 +38,9 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=222222)
+![](https://img.shields.io/badge/Tools-GIMP-informational?style=flat&logo=GIMP&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=222222)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=222222)
