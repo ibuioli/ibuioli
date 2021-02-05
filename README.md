@@ -32,6 +32,7 @@
 
 ![](https://img.shields.io/badge/MarkUp-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=#e96228)
 ![](https://img.shields.io/badge/MarkUp-XML-informational?style=flat-square&logo=html5&logoColor=white&color=#e96228)
+![](https://img.shields.io/badge/MarkUp-QWeb-informational?style=flat-square&logo=html5&logoColor=white&color=#e96228)
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=c76494)
 ![](https://img.shields.io/badge/Style-SCSS-informational?style=flat-square&logo=css3&logoColor=white&color=c76494)
