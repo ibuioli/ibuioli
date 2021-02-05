@@ -25,8 +25,12 @@
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-ReactiveX-informational?style=flat-square&logo=ReactiveX&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Electron-informational?style=flat-square&logo=Electron&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Capacitor-informational?style=flat-square&logo=Capacitor&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Cordova-informational?style=flat-square&logo=apache-cordova&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Processing-informational?style=flat-square&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-p5JS-informational?style=flat-square&logo=p5.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JSON-informational?style=flat-square&logo=json&logoColor=white&color=4AB197)
 
 #### Website Technologies
 
