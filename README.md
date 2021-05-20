@@ -6,11 +6,11 @@
 ### Ignacio Buioli in GitHub
 
 <a href="https://github.com/ibuioli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibuioli&show_icons=true&line_height=27&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="ibuioli's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibuioli&show_icons=true&line_height=40&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="ibuioli's GitHub Stats" />
 </a>
 
 <a href="https://github.com/ibuioli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibuioli&hide=html,css,max&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibuioli&hide=html,max,processing,puredata&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 ### Dev Skills
